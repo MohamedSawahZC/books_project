@@ -24,6 +24,14 @@ class ApplicationController < ActionController::API
         end
     end
 
+    def admin_permission
+        if @user.role != 'admin'
+            false
+        else
+            true
+
+            end
+    end
     def authorize
         render json: {message: 'You have to log in'}, status: :unauthorized unless
           authorized_user

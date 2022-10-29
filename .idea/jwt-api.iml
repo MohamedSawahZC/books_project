@@ -76,6 +76,7 @@
     <orderEntry type="library" scope="PROVIDED" name="railties (v7.0.4, ruby-3.0.4-p208) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, ruby-3.0.4-p208) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="reline (v0.3.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rolify (v6.0.0, ruby-3.0.4-p208) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.5.3, ruby-3.0.4-p208) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v1.2.1, ruby-3.0.4-p208) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="timeout (v0.3.0, ruby-3.0.4-p208) [gem]" level="application" />
